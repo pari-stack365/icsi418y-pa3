@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  color: #222;
+  background: white;
+}
+
+li {
+  margin: 8px 0;
+}

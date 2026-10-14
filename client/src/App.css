@@ -1,0 +1,30 @@
+main {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 12px 0;
+}
+
+input, select, textarea {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  margin-top: 4px;
+}
+
+button {
+  padding: 8px 14px;
+}
+
